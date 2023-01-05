@@ -75,11 +75,11 @@ The RTL Realization for Full Adder
 
 Timing Diagram for Half Adder
 
-![half adder time diagram](https://user-images.githubusercontent.com/118886772/210481003-ed38722e-2fbf-44f6-a0da-eef479ee7d59.jpg)
+![half adder time diagram](https://user-images.githubusercontent.com/118886772/210708684-50b3ab59-b89a-47f2-871d-9ce05a0d8e4c.jpg)
 
 Timing Diagram for Full Adder
 
-![full adder time diagram](https://user-images.githubusercontent.com/118886772/210481020-1499e6de-b600-4848-93c1-931c4c8669ec.jpg)
+![full adder time diagram](https://user-images.githubusercontent.com/118886772/210708629-e68817b2-1040-4e8b-9564-8d49d18282de.jpg)
 
 ### TRUTH TABLE
 Truth table for Half Adder
